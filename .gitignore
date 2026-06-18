@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# ML / Data
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+*.h5
+*.npy
+*.npz
+data/
+*.wav
+*.mp3
+*.flac
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+~$*
+*.tmp
+
+# Logs
+*.log
+logs/
